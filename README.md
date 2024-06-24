@@ -1,4 +1,4 @@
-## 🌐🔱 HOLLOW ETHER - Blockchain 🔱🌐
+## 🌐🔱 HOLLOW ETHER 🔱🌐
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![RubyX](https://img.shields.io/badge/rubyX-%23CC342D.svg?style=for-the-badge&logo=rubyX&logoColor=white)
