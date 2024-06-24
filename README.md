@@ -1,25 +1,3 @@
-Para criar um ícone personalizado para Hollow usando a imagem fornecida e a cor verde água, você pode utilizar um gerador de badges como [Shields.io](https://shields.io/) com parâmetros específicos. No entanto, já que precisamos de um ícone específico, vou descrever como pode ser feito.
-
-Primeiro, precisamos hospedar a imagem que você deseja usar. Vou supor que a imagem já está hospedada online.
-
-Em seguida, para criar um badge com uma imagem personalizada, você pode usar o seguinte formato de URL para Shields.io:
-
-```markdown
-![Hollow](https://img.shields.io/badge/hollow-%2300CED1.svg?style=for-the-badge&logo=data:image/png;base64,[base64_encoded_image]&logoColor=white)
-```
-
-Para incluir uma imagem, você precisa convertê-la para base64. Aqui está um exemplo com uma imagem hipotética codificada em base64. 
-
-Vamos substituir `[base64_encoded_image]` pela versão base64 da imagem que você deseja usar. Para este exemplo, vou criar uma badge com uma imagem genérica.
-
-```markdown
-![Hollow](https://img.shields.io/badge/hollow-%2300CED1.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...&logoColor=white)
-```
-
-Agora, vamos atualizar o README com o ícone Hollow e a cor verde água:
-
----
-
 ## 🌐🔱 HOLLOW ETHER - Blockchain 🔱🌐
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
